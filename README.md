@@ -26,7 +26,7 @@
         <td>biology</td>
         <td>生物学</td>
         <td>speciology</td>
-        <td>'物种学'</td>
+        <td>物种学</td>
         <td>zoology</td>
         <td>动物学</td>
         <td>micro-biology</td>
